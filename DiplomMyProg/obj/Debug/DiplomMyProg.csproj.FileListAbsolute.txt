@@ -1,0 +1,141 @@
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.exe.config
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.exe
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.pdb
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\MySQL.Utility.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\Google.Protobuf.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\Zstandard.Net.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\Renci.SshNet.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\System.Buffers.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\System.Memory.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.xml
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.exe.config
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Form1.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Properties.Resources.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.GenerateResource.cache
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.CoreCompileInputs.cache
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.CopyComplete
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.exe
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.pdb
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewCards.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewAbonements.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewServices.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAuth.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Form2.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormPanel.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormDataGridView.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormDelete.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormNewGym.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormNewStuff.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewClient.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewShedule.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewVisit.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateAbonement.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.AssemblyReference.cache
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateServices.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateGym.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateStuff.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateClient.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateCard.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateSchedule.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateVisit.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.exe.config
+D:\C# project\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.exe
+D:\C# project\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.pdb
+D:\C# project\DiplomMyProg\DiplomMyProg\bin\Debug\Renci.SshNet.dll
+D:\C# project\DiplomMyProg\DiplomMyProg\bin\Debug\System.Memory.dll
+D:\C# project\DiplomMyProg\DiplomMyProg\bin\Debug\System.Buffers.dll
+D:\C# project\DiplomMyProg\DiplomMyProg\bin\Debug\System.Numerics.Vectors.dll
+D:\C# project\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.EntityFramework.xml
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csprojAssemblyReference.cache
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.exe.config
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Form1.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Form2.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormDelete.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormNewGym.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormNewStuff.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormDataGridView.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormPanel.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateAbonement.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateCard.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateClient.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateGym.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateSchedule.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateServices.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateStuff.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateVisit.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewClient.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewShedule.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewVisit.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAuth.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewAbonements.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewCards.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewServices.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Properties.Resources.resources
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.GenerateResource.cache
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.CoreCompileInputs.cache
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.CopyComplete
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.exe
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.pdb
+D:\C# project\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormServerConnect.resources
+C:\Users\Talgat\source\repos\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormServerConnect.resources
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.exe.config
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.exe
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\DiplomMyProg.pdb
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.EntityFramework.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\Google.Protobuf.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\Zstandard.Net.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\BouncyCastle.Crypto.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\Ubiety.Dns.Core.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\Renci.SshNet.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\System.Buffers.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\K4os.Compression.LZ4.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\K4os.Hash.xxHash.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\System.Memory.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\System.Numerics.Vectors.dll
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.xml
+D:\DiplomMyProg\DiplomMyProg\bin\Debug\MySql.Data.EntityFramework.xml
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.exe.config
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Form1.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Form2.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormDelete.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormNewGym.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormNewStuff.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormDataGridView.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormPanel.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateAbonement.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateCard.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateClient.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateGym.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateSchedule.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateServices.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateStuff.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms2.FormUpdateVisit.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.FormServerConnect.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewClient.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewShedule.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAddNewVisit.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormAuth.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewAbonements.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewCards.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Forms.FormNewServices.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.Properties.Resources.resources
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.GenerateResource.cache
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.CoreCompileInputs.cache
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.CopyComplete
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.exe
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.pdb
+D:\DiplomMyProg\DiplomMyProg\obj\Debug\DiplomMyProg.csproj.AssemblyReference.cache

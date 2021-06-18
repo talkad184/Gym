@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2C354079-7C46-4014-85D3-0EF8B91F15A2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DiplomMyProg</RootNamespace>
+    <AssemblyName>DiplomMyProg</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Management.Infrastructure">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\WMI\v1.0\Microsoft.Management.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.20.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.EntityFramework, Version=8.0.20.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MySQL.Utility">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL for Visual Studio 1.2\Dependencies\MySQL.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDelete.Designer.cs">
+      <DependentUpon>FormDelete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewGym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewGym.Designer.cs">
+      <DependentUpon>FormNewGym.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewStuff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewStuff.Designer.cs">
+      <DependentUpon>FormNewStuff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormDataGridView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormDataGridView.Designer.cs">
+      <DependentUpon>FormDataGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormPanel.Designer.cs">
+      <DependentUpon>FormPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateAbonement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateAbonement.Designer.cs">
+      <DependentUpon>FormUpdateAbonement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateCard.Designer.cs">
+      <DependentUpon>FormUpdateCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateClient.Designer.cs">
+      <DependentUpon>FormUpdateClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateGym.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateGym.Designer.cs">
+      <DependentUpon>FormUpdateGym.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateSchedule.Designer.cs">
+      <DependentUpon>FormUpdateSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateServices.Designer.cs">
+      <DependentUpon>FormUpdateServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateStuff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateStuff.Designer.cs">
+      <DependentUpon>FormUpdateStuff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateVisit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms2\FormUpdateVisit.Designer.cs">
+      <DependentUpon>FormUpdateVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormServerConnect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormServerConnect.Designer.cs">
+      <DependentUpon>FormServerConnect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAddNewClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAddNewClient.Designer.cs">
+      <DependentUpon>FormAddNewClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAddNewShedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAddNewShedule.Designer.cs">
+      <DependentUpon>FormAddNewShedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAddNewVisit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAddNewVisit.Designer.cs">
+      <DependentUpon>FormAddNewVisit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormAuth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAuth.Designer.cs">
+      <DependentUpon>FormAuth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormNewAbonements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormNewAbonements.Designer.cs">
+      <DependentUpon>FormNewAbonements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormNewCards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormNewCards.Designer.cs">
+      <DependentUpon>FormNewCards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormNewServices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormNewServices.Designer.cs">
+      <DependentUpon>FormNewServices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQL_F.cs" />
+    <Compile Include="ThemeColor.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDelete.resx">
+      <DependentUpon>FormDelete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewGym.resx">
+      <DependentUpon>FormNewGym.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewStuff.resx">
+      <DependentUpon>FormNewStuff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormDataGridView.resx">
+      <DependentUpon>FormDataGridView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormPanel.resx">
+      <DependentUpon>FormPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormUpdateAbonement.resx">
+      <DependentUpon>FormUpdateAbonement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormUpdateCard.resx">
+      <DependentUpon>FormUpdateCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormUpdateClient.resx">
+      <DependentUpon>FormUpdateClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormUpdateGym.resx">
+      <DependentUpon>FormUpdateGym.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormUpdateSchedule.resx">
+      <DependentUpon>FormUpdateSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormUpdateServices.resx">
+      <DependentUpon>FormUpdateServices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormUpdateStuff.resx">
+      <DependentUpon>FormUpdateStuff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms2\FormUpdateVisit.resx">
+      <DependentUpon>FormUpdateVisit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormServerConnect.resx">
+      <DependentUpon>FormServerConnect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAddNewClient.resx">
+      <DependentUpon>FormAddNewClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAddNewShedule.resx">
+      <DependentUpon>FormAddNewShedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAddNewVisit.resx">
+      <DependentUpon>FormAddNewVisit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormAuth.resx">
+      <DependentUpon>FormAuth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormNewAbonements.resx">
+      <DependentUpon>FormNewAbonements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormNewCards.resx">
+      <DependentUpon>FormNewCards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FormNewServices.resx">
+      <DependentUpon>FormNewServices.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
